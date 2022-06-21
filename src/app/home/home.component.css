@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100&family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200&family=Exo+2:wght@100&family=Indie+Flower&family=Nanum+Myeongjo&display=swap');
+
+.amarelo {
+    background-color: #FDC15C;
+}
+
+.azul {
+    background-color: #1757AA;
+}
+
+.font-white {
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20pt;
+    color: white;
+}
+
+.font {
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Indie Flower', cursive;
+    font-size: 15pt;
+}
+
+.font-card {
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Indie Flower', cursive;
+    font-size: 15pt;
+}
+
+.font-btn {
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Indie Flower', cursive;
+    font-size: 15pt;
+}
+
+.font-titulo {
+    color: black;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25pt;
+}
+
+.font-menor {
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Indie Flower', cursive;
+    font-size: 12pt;
+}
+
+.img-card {
+    width: 100px;
+}
+
+.inner {
+    overflow: hidden;
+}
+
+.inner img {
+    transition: all 1.5s ease;
+}
+
+.inner:hover img {
+    transform: scale(1.5);
+}
